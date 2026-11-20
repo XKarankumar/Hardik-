@@ -51,7 +51,7 @@ HARDIK BUDS **never** fakes unsupported controls:
 
 ## Building Debug & Signed Release APKs
 
-> **Note:** This project uses system Gradle (`gradle` 9.3.1). If you prefer `./gradlew` locally in Android Studio, run `gradle wrapper` once first.
+> **Prerequisites:** JDK 21, Android SDK Platform 36 (`compileSdk` 36.1), and system Gradle (`gradle` 9.3.1). If you prefer `./gradlew` locally in Android Studio, run `gradle wrapper` once first.
 
 ### Debug APK
 
