@@ -1,0 +1,6 @@
+{
+  "name": "HARDIK BUDS",
+  "description": "Nothing OS inspired wireless earbuds companion with real Android DynamicsProcessing 10-band EQ, spatial audio diagnostics, Bluetooth device telemetry, and GitHub release auto-updater.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
